@@ -15,6 +15,14 @@ A web-based **Student Management System** built with PHP that allows students to
 
 ---
 
+## Tech Stack
+
+- Backend: PHP
+- Frontend: HTML & CSS
+- Database - MySQL
+
+---
+
 ## Installation
 
 1. Clone the repository:
