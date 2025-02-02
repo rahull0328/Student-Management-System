@@ -1,4 +1,4 @@
-# Student Management System
+# Student Management System - SMS
 
 A web-based **Student Management System** built with PHP that allows students to register, log in, upload their details, edit profiles, delete profiles, and upload a profile photo. This project simplifies student management by providing user-friendly interfaces for basic operations.
 
